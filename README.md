@@ -15,4 +15,12 @@
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0177-nth-highest-salary) |
+## Array
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/1929-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
