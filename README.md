@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -28,4 +29,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/1480-running-sum-of-1d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
