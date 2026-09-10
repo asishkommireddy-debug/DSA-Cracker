@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/1480-running-sum-of-1d-array) |
@@ -35,10 +36,15 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0189-rotate-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
