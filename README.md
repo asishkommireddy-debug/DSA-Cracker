@@ -44,6 +44,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
