@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0189-rotate-array) |
@@ -50,4 +51,12 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0088-merge-sorted-array) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
