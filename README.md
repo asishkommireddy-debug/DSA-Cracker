@@ -31,6 +31,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0189-rotate-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0189-rotate-array) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0033-search-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
