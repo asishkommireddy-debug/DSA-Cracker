@@ -38,6 +38,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0189-rotate-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/1929-concatenation-of-array) |
@@ -107,4 +108,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
