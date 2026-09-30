@@ -34,6 +34,7 @@
 | [0031-next-permutation](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0075-sort-colors](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0189-rotate-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0189-rotate-array) |
@@ -59,6 +60,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0283-move-zeroes) |
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
@@ -114,4 +117,12 @@
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
