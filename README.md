@@ -101,6 +101,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0226-invert-binary-tree](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0226-invert-binary-tree](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0226-invert-binary-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -126,4 +128,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0075-sort-colors) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
