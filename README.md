@@ -100,6 +100,7 @@
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
@@ -109,6 +110,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0226-invert-binary-tree) |
 ## Greedy
@@ -131,9 +133,11 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
