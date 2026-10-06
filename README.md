@@ -35,6 +35,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0189-rotate-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0189-rotate-array) |
@@ -158,4 +159,12 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
