@@ -34,6 +34,7 @@
 | [0031-next-permutation](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0039-combination-sum](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0078-subsets) |
@@ -163,6 +164,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0078-subsets) |
 ## Bit Manipulation
