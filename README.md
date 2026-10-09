@@ -41,6 +41,7 @@
 | [0088-merge-sorted-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0189-rotate-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0875-koko-eating-bananas) |
@@ -145,6 +146,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
@@ -152,6 +154,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0226-invert-binary-tree) |
 ## Binary Lifting
 |  |
@@ -171,4 +174,12 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0078-subsets) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
