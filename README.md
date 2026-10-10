@@ -44,6 +44,7 @@
 | [0200-number-of-islands](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0695-max-area-of-island) |
 | [0875-koko-eating-bananas](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/1929-concatenation-of-array) |
@@ -149,6 +150,7 @@
 | [0200-number-of-islands](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0695-max-area-of-island](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -156,6 +158,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0695-max-area-of-island) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -178,8 +181,10 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
