@@ -74,6 +74,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
@@ -201,4 +202,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0207-course-schedule) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
