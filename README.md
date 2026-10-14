@@ -43,6 +43,7 @@
 | [0189-rotate-array](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0695-max-area-of-island) |
@@ -208,6 +209,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0213-house-robber-ii) |
 ## Memoization
 |  |
 | ------- |
