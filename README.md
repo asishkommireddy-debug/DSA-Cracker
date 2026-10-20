@@ -93,6 +93,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0014-longest-common-prefix) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Trie
 |  |
 | ------- |
@@ -218,4 +219,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [3120-count-the-number-of-special-characters-i](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/3120-count-the-number-of-special-characters-i) |
 <!---LeetCode Topics End-->
