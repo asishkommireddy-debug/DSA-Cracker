@@ -29,6 +29,7 @@
 | [0197-rising-temperature](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/asishkommireddy-debug/DSA-Cracker/tree/master/0595-big-countries) |
 ## Array
 |  |
 | ------- |
